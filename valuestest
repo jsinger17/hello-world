@@ -1,0 +1,210 @@
+Client Name	Job Description	Pipeline Status	Fee	Team	Product	Lead	Boss	Compet
+1	Job Description	5	201220	2	Product1	lead15	Boss1	N  
+2	Job Description	5	176281	2	Product2	lead10	Boss2	N  
+3	Job Description	5	299182	3	Product3	lead17	Boss3	N  
+4	Job Description	5	198906	2	Product4	lead9	Boss4	N  
+5	Job Description	5	426244	2	Product5	lead1	Boss5	N  
+6	Job Description	5	309421	2	Product6	lead16	Boss6	Y  
+5	Job Description	5	300149	1	Product7	lead14	Boss5	Y  
+8	Job Description	5	88978	1	Product8	lead7	Boss8	N  
+9	Job Description	5	294205	2	Product9	lead16	Boss9	Y  
+10	Job Description	5	425481	1	Product10	lead15	Boss6	N  
+11	Job Description	5	144527	2	Product1	lead13	Boss6	Y  
+12	Job Description	5	2000000	1	Product2	lead16	Boss5	N  
+10	Job Description	5	150202	2	Product3	lead19	Boss6	N  
+14	Job Description	5	231165	3	Product4	lead9	Boss6	Y  
+15	Job Description	5	107945	2	Product5	lead1	Boss15	Y  
+16	Job Description	5	43823	2	Product6	lead4	Boss16	N  
+17	Job Description	5	368967	2	Product7	lead4	Boss16	N  
+17	Job Description	5	1000000	2	Product8	lead17	Boss16	N  
+19	Job Description	5	291465	3	Product9	lead3	Boss4	N  
+20	Job Description	5	367496	3	Product10	lead20	Boss3	N  
+21	Job Description	5	215272	3	Product1	lead1	Boss6	N  
+22	Job Description	5	496000	1	Product2	lead10	Boss22	N  
+23	Job Description	5	373415	2	Product3	lead17	Boss22	N  
+6	Job Description	5	201898	1	Product4	lead10	Boss24	N  
+25	Job Description	5	72756	2	Product5	lead9	Boss25	Y  
+26	Job Description	5	104099	2	Product6	lead6	Boss26	Y  
+27	Job Description	5	36217	2	Product7	lead9	Boss3	N  
+28	Job Description	4	222118	3	Product8	lead15	Boss1	N  
+29	Job Description	4	378863	1	Product9	lead6	Boss1	Y  
+26	Job Description	4	57491	2	Product10	lead11	Boss1	N  
+11	Job Description	4	109846	2	Product1	lead12	Boss24	N  
+32	Job Description	4	410221	2	Product2	lead13	Boss6	N  
+33	Job Description	4	77233	1	Product3	lead12	Boss6	N  
+21	Job Description	4	337546	2	Product4	lead11	Boss6	N  
+17	Job Description	4	401987	2	Product5	lead11	Boss6	N  
+36	Job Description	4	17086	1	Product6	lead9	Boss6	N  
+37	Job Description	4	417405	3	Product7	lead19	Boss5	N  
+38	Job Description	4	158969	3	Product8	lead15	Boss1	N  
+39	Job Description	4	443277	2	Product9	lead16	Boss8	N  
+40	Job Description	4	325478	1	Product10	lead3	Boss8	N  
+2	Job Description	4	404101	1	Product1	lead8	Boss2	N  
+42	Job Description	4	337676	2	Product2	lead19	Boss1	N  
+43	Job Description	4	357429	3	Product3	lead17	Boss15	Y  
+27	Job Description	4	393946	1	Product4	lead2	Boss15	N  
+45	Job Description	4	266547	3	Product5	lead5	Boss8	N  
+5	Job Description	4	80323	1	Product6	lead11	Boss5	N  
+47	Job Description	4	84066	3	Product7	lead11	Boss15	N  
+17	Job Description	4	90883	2	Product8	lead10	Boss22	Y  
+49	Job Description	4	269040	1	Product9	lead1	Boss25	Y  
+50	Job Description	4	446138	1	Product10	lead16	Boss2	Y  
+51	Job Description	4	61107	1	Product1	lead6	Boss5	N  
+51	Job Description	4	413371	1	Product2	lead16	Boss5	Y  
+32	Job Description	4	331661	3	Product3	lead11	Boss6	Y  
+54	Job Description	4	356966	3	Product4	lead3	Boss5	N  
+55	Job Description	4	18472	2	Product5	lead18	Boss15	Y  
+23	Job Description	4	229210	3	Product6	lead6	Boss15	Y  
+57	Job Description	4	48618	1	Product7	lead12	Boss15	N  
+26	Job Description	4	138811	1	Product8	lead14	Boss4	N  
+59	Job Description	4	437507	3	Product9	lead16	Boss4	N  
+60	Job Description	4	161283	1	Product10	lead5	Boss6	N  
+61	Job Description	4	101395	3	Product1	lead10	Boss22	Y  
+62	Job Description	4	380238	3	Product2	lead18	Boss22	N  
+32	Job Description	4	67433	2	Product3	lead17	Boss2	N  
+64	Job Description	4	2000000	3	Product4	lead18	Boss4	N  
+65	Job Description	4	150202	3	Product5	lead1	Boss1	Y  
+66	Job Description	4	231165	3	Product6	lead11	Boss1	N  
+67	Job Description	4	107945	3	Product7	lead14	Boss67	N  
+68	Job Description	4	43823	3	Product8	lead1	Boss6	N  
+68	Job Description	4	368967	1	Product9	lead10	Boss6	N  
+68	Job Description	4	1000000	2	Product10	lead14	Boss6	N  
+37	Job Description	4	330237	3	Product1	lead7	Boss71	N  
+37	Job Description	4	409301	2	Product2	lead8	Boss71	N  
+73	Job Description	4	202955	1	Product3	lead6	Boss2	N  
+21	Job Description	4	130176	1	Product4	lead13	Boss24	Y  
+75	Job Description	4	389037	3	Product5	lead5	Boss8	N  
+37	Job Description	4	429605	3	Product6	lead12	Boss71	N  
+25	Job Description	4	197361	1	Product7	lead20	Boss1	N  
+78	Job Description	3	158238	3	Product8	lead18	Boss1	N  
+21	Job Description	3	37954	2	Product9	lead5	Boss24	Y  
+21	Job Description	3	339123	2	Product10	lead6	Boss6	   
+81	Job Description	3	56078	3	Product1	lead3	Boss1	   
+38	Job Description	3	473733	3	Product2	lead7	Boss1	   
+83	Job Description	3	250911	2	Product3	lead1	Boss3	   
+84	Job Description	3	35032	1	Product4	lead10	Boss2	N  
+38	Job Description	3	378701	1	Product5	lead4	Boss1	N  
+86	Job Description	3	355910	3	Product6	lead18	Boss5	   
+51	Job Description	3	151649	2	Product7	lead12	Boss71	N  
+5	Job Description	3	357166	3	Product8	lead13	Boss5	N  
+89	Job Description	3	461410	1	Product9	lead20	Boss1	N  
+10	Job Description	3	2000000	1	Product10	lead6	Boss3	N  
+73	Job Description	3	150202	1	Product1	lead17	Boss8	N  
+15	Job Description	3	231165	1	Product2	lead9	Boss4	   
+15	Job Description	3	107945	1	Product3	lead20	Boss16	   
+15	Job Description	3	43823	2	Product4	lead1	Boss16	   
+95	Job Description	3	368967	3	Product5	lead15	Boss4	   
+32	Job Description	3	1000000	3	Product6	lead19	Boss25	Y  
+97	Job Description	3	237116	3	Product7	lead5	Boss25	N  
+73	Job Description	3	445205	2	Product8	lead20	Boss2	   
+99	Job Description	3	420276	3	Product9	lead1	Boss67	Y  
+100	Job Description	3	133515	2	Product10	lead8	Boss100	Y  
+101	Job Description	3	23186	1	Product1	lead14	Boss1	   
+5	Job Description	3	467936	1	Product2	lead2	Boss5	N  
+84	Job Description	3	308153	2	Product3	lead9	Boss2	   
+57	Job Description	3	433766	1	Product4	lead6	Boss26	   
+105	Job Description	3	198927	3	Product5	lead20	Boss15	   
+15	Job Description	3	290291	1	Product6	lead10	Boss15	   
+107	Job Description	2	2000000	3	Product7	lead7	Boss1	Y  
+108	Job Description	2	150202	2	Product8	lead19	Boss1	   
+17	Job Description	2	231165	3	Product9	lead2	Boss109	   
+110	Job Description	2	107945	2	Product10	lead1	Boss1	   
+111	Job Description	2	43823	1	Product1	lead16	Boss1	   
+22	Job Description	2	368967	2	Product2	lead8	Boss24	Y  
+33	Job Description	2	1000000	3	Product3	lead10	Boss6	   
+110	Job Description	2	259931	2	Product4	lead16	Boss8	   
+115	Job Description	2	52286	2	Product5	lead9	Boss8	N  
+11	Job Description	2	211267	1	Product6	lead2	Boss15	   
+117	Job Description	2	433049	2	Product7	lead8	Boss67	N  
+6	Job Description	2	170410	3	Product8	lead20	Boss15	N  
+6	Job Description	2	153069	1	Product9	lead5	Boss15	Y  
+120	Job Description	2	400199	2	Product10	lead8	Boss120	N  
+40	Job Description	2	437271	1	Product1	lead19	Boss24	N  
+10	Job Description	2	229227	3	Product2	lead7	Boss1	   
+123	Job Description	2	308549	1	Product3	lead10	Boss1	N  
+124	Job Description	2	105109	2	Product4	lead19	Boss1	   
+125	Job Description	2	353685	2	Product5	lead17	Boss1	   
+10	Job Description	2	197105	1	Product6	lead10	Boss3	N  
+37	Job Description	2	367497	2	Product7	lead19	Boss2	N  
+15	Job Description	2	27507	1	Product8	lead7	Boss16	Y  
+68	Job Description	2	480075	2	Product9	lead1	Boss6	   
+23	Job Description	2	245779	1	Product10	lead8	Boss6	   
+73	Job Description	2	139660	3	Product1	lead12	Boss2	   
+17	Job Description	2	123718	2	Product2	lead20	Boss2	   
+133	Job Description	2	361692	3	Product3	lead3	Boss67	N  
+23	Job Description	2	301185	1	Product4	lead11	Boss6	N  
+17	Job Description	2	479367	2	Product5	lead12	Boss2	Y  
+23	Job Description	2	25705	2	Product6	lead18	Boss4	   
+67	Job Description	2	163048	1	Product7	lead13	Boss22	   
+37	Job Description	2	295819	2	Product8	lead14	Boss71	N  
+6	Job Description	2	118445	2	Product9	lead17	Boss15	   
+133	Job Description	2	419430	3	Product10	lead9	Boss26	   
+133	Job Description	2	286930	1	Product1	lead7	Boss26	   
+15	Job Description	2	444931	1	Product2	lead9	Boss15	   
+43	Job Description	2	412665	1	Product3	lead18	Boss15	   
+26	Job Description	1	327706	3	Product4	lead3	Boss1	   
+145	Job Description	1	137063	2	Product5	lead3	Boss1	   
+146	Job Description	1	238400	3	Product6	lead9	Boss1	   
+147	Job Description	1	81088	3	Product7	lead13	Boss1	   
+148	Job Description	1	362801	3	Product8	lead16	Boss2	N  
+149	Job Description	1	80070	3	Product9	lead5	Boss24	N  
+21	Job Description	1	290765	1	Product10	lead19	Boss150	Y  
+151	Job Description	1	207116	2	Product1	lead18	Boss1	   
+152	Job Description	1	124625	1	Product2	lead1	Boss6	N  
+17	Job Description	1	99544	3	Product3	lead8	Boss2	N  
+154	Job Description	1	241049	2	Product4	lead20	Boss2	N  
+22	Job Description	1	307543	3	Product5	lead20	Boss24	   
+57	Job Description	1	355959	2	Product6	lead2	Boss67	N  
+17	Job Description	1	364631	3	Product7	lead14	Boss67	N  
+158	Job Description	1	142706	2	Product8	lead2	Boss3	N  
+23	Job Description	1	327504	3	Product9	lead11	Boss5	Y  
+21	Job Description	1	133017	1	Product10	lead5	Boss120	N  
+161	Job Description	1	261371	2	Product1	lead19	Boss120	N  
+15	Job Description	1	272966	1	Product2	lead17	Boss120	N  
+15	Job Description	1	151112	2	Product3	lead1	Boss120	N  
+5	Job Description	1	366087	1	Product4	lead9	Boss5	   
+165	Job Description	1	480151	3	Product5	lead19	Boss15	   
+166	Job Description	1	130364	1	Product6	lead18	Boss3	N  
+57	Job Description	1	157597	3	Product7	lead20	Boss67	N  
+168	Job Description	1	66736	2	Product8	lead6	Boss67	N  
+37	Job Description	1	226850	2	Product9	lead8	Boss71	N  
+55	Job Description	1	34029	2	Product10	lead1	Boss15	   
+171	Job Description	1	235074	3	Product1	lead12	Boss171	Y  
+100	Job Description	1	388085	2	Product2	lead18	Boss8	N  
+173	Job Description	1	84752	1	Product3	lead10	Boss173	Y  
+73	Job Description	1	126647	2	Product4	lead11	Boss2	N  
+73	Job Description	1	276036	3	Product5	lead5	Boss120	N  
+17	Job Description	1	369339	3	Product6	lead20	Boss6	   
+17	Job Description	1	482847	1	Product7	lead18	Boss2	N  
+17	Job Description	1	439909	3	Product8	lead1	Boss2	N  
+17	Job Description	1	289220	2	Product9	lead16	Boss2	N  
+17	Job Description	1	280059	1	Product10	lead5	Boss2	N  
+73	Job Description	1	303267	3	Product1	lead19	Boss6	N  
+182	Job Description	1	274425	3	Product2	lead13	Boss182	Y  
+101	Job Description	1	471796	1	Product3	lead11	Boss182	Y  
+73	Job Description	1	301007	3	Product4	lead14	Boss2	N  
+73	Job Description	1	136699	2	Product5	lead18	Boss2	N  
+186	Job Description	1	406617	1	Product6	lead7	Boss120	N  
+187	Job Description	1	210844	1	Product7	lead20	Boss4	   
+49	Job Description	1	103867	1	Product8	lead19	Boss67	Y  
+189	Job Description	1	2000000	2	Product9	lead15	Boss2	N  
+33	Job Description	1	150202	1	Product10	lead9	Boss22	Y  
+191	Job Description	1	231165	1	Operations	lead18	Boss71	N  
+192	Job Description	1	107945	3	Product1	lead5	Boss6	   
+192	Job Description	1	43823	3	Product2	lead10	Boss6	   
+168	Job Description	1	368967	2	Product3	lead10	Boss22	N  
+148	Job Description	1	1000000	3	Product4	lead3	Boss2	   
+148	Job Description	1	456258	2	Product5	lead3	Boss2	   
+148	Job Description	1	128009	2	Product6	lead7	Boss2	   
+148	Job Description	1	224876	2	Product7	lead19	Boss2	   
+148	Job Description	1	69770	1	Product8	lead16	Boss2	   
+200	Job Description	1	474317	3	Product9	lead17	Boss200	   
+37	Job Description	1	491030	1	Product10	lead20	Boss6	N  
+33	Job Description	1	200797	2	Product1	lead16	Boss1	Y  
+25	Job Description	1	66321	3	Product2	lead14	Boss203	Y  
+59	Job Description	1	63970	3	Product3	lead17	Boss5	N  
+57	Job Description	1	460161	2	Product4	lead6	Boss25	Y  
+206	Job Description	1	440450	2	Product5	lead18	Boss25	N  
+207	Job Description	1	463618	1	Product6	lead16	Boss25	N  
+15	Job Description	1	28910	3	Product7	lead13	Boss15	   
+209	Job Description	1	20109	1	Product8	lead15	Boss15	   
